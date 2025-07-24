@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🌐 Portafolio Web - Jose Alberto Estrada Vazquez
 
-<!--
-**AlbertoEVz/AlbertoEVz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Bienvenido a mi portafolio en línea, creado para mostrar mis proyectos y habilidades como desarrollador web.
 
-Here are some ideas to get you started:
+Este sitio está disponible en:  
+🔗 [https://AlbertoEVz.github.io](https://AlbertoEVz.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+Soy desarrollador web con conocimientos en:
+
+- HTML, CSS, JavaScript
+- Bootstrap
+- PHP y MySQL
+- CRUD, LocalStorage
+- Desarrollo de sitios responsivos y funcionales
+
+Actualmente estoy en búsqueda de una oportunidad como **Desarrollador Web Jr** donde pueda seguir creciendo y aprendiendo.
+
+## 🛠 Proyectos destacados
+
+| Proyecto | Tecnologías | Demo | Código |
+|---------|-------------|------|--------|
+| **Calculadora Hipotecaria** | JavaScript, CSS, HTML, Bootstrap, LocalStorage | [🔗 Ver demo](https://albertoevz.github.io/calculadora-Hipotecaria) | [📂 GitHub](https://github.com/AlbertoEVz/calculadora-Hipotecaria) |
+
+Actualmente sigo aprendiendo por lo que estoy tomando un curso sobre **APIs RESTful con NodeJS, MongoDB, Express, JWT para la elaboración de Back-End.**
+
+*mas adelante subire proyectos con esas herramientas.*
+
+<!-- Aqui puedo agregar mas proyectos -->
+
+## 📫 Contacto
+
+- 📧 Email: albertoevzdc@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-alberto-estrada-vazquez)
+- 💻 [GitHub](https://github.com/AlbertoEVz)
+
+---
+
+> Este portafolio está construido con HTML, CSS y Bootstrap, y desplegado mediante GitHub Pages.
