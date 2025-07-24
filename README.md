@@ -23,7 +23,7 @@ Actualmente estoy en búsqueda de una oportunidad como **Desarrollador Web Jr** 
 |---------|-------------|------|--------|
 | **Calculadora Hipotecaria** | JavaScript, CSS, HTML, Bootstrap, LocalStorage | [🔗 Ver demo](https://albertoevz.github.io/calculadora-Hipotecaria) | [📂 GitHub](https://github.com/AlbertoEVz/calculadora-Hipotecaria) |
 
-Sigo en aprendizaje constatne por lo que estoy tomando un curso sobre **APIs RESTful con NodeJS, MongoDB, Express, JWT para la elaboración de Back-End.**
+Sigo aprendiendo herramientas de desarrollo por lo que estoy tomando un curso sobre **APIs RESTful con NodeJS, MongoDB, Express, JWT para la elaboración de Back-End.**
 
 *mas adelante subire proyectos con esas herramientas.*
 
